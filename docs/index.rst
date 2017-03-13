@@ -20,6 +20,7 @@ Current content:
    admin/index
    cd/index
    ide/index
+   amazon-aws/index
    other/index
 
 
