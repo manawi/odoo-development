@@ -20,7 +20,15 @@ Add seller and buyer
 * Add some money to buyer (type amount in according field).
 * Go to http://sandbox.paypal.com and login as seller. May be you will be forced to apply unconfirmed ssl certificate.
 * Go to **Profile**.
+
+ * Go to **My Business Setup**
+ .. image:: /images/dev/debug/paypal5.png
+ * Go to **Profile**
+ .. image:: /images/dev/debug/paypal4.png
+  
 * Copy *protected seller code*.
+
+ .. image:: /images/dev/debug/paypal3.png
 
 
 Configure odoo
